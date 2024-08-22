@@ -37,7 +37,8 @@
    
 - Por fim, ao final da aula pare a execução do container
   ```shell
-  docker stop postgres-server-container
+  
+  
   ```
 - Sempre ao começo de cada aula, inicie novamente a execução
   ```shell
